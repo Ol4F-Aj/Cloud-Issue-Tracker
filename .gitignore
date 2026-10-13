@@ -1,4 +1,4 @@
-git add .
-git status
-git commit -m "Set up project structure and static interface"
-git push
+node_modules/
+.env
+.DS_Store
+Thumbs.db
